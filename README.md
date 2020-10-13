@@ -15,6 +15,7 @@ Accediendo a la variable $app y usando la propiedad router puedes especificar el
 El framework bloqueara todos los demas métodos en caso de no existir una ruta.
 
 `
+
     $app->router->get('/', function ($req, $res) {
         
         $res->code(400);
@@ -31,6 +32,7 @@ Additionally you can pass parameters through your url and they will be available
 Tambien puedes pasar parametros a travez de a URL y van a estar disponibles en la funcion de la ruta. Para crear estos parametros simplemente envuelvelos con un par de brackets.
 
 `
+
    $app->router->get('/user/{name}/scoreboard/{id}', function ($req, $res) {
         
         $res->code(200);
