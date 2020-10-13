@@ -9,6 +9,7 @@ class Response
 
     public function json($message)
     {
+        header('Content-type: application/json');
         return json_encode($message);
     }
 
