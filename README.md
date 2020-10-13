@@ -1,3 +1,7 @@
+
+<h3> Este proyecto esta actualmente en construccion y no esta listo para produccion, aunque siendo un framework tan pequeño probablemente puedas construir tu propia abstraccion para la base de datos y usarlo</h3>
+
+
 Kronos is a single entry point microframework for APIs. The files for your application should go inside the app folder.
 The entry point for your routes is the app.php file where you can create an autoloader to dynamically load your router function files.
 
