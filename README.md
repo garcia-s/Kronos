@@ -1,5 +1,5 @@
 
-<h3> Este proyecto esta actualmente en construccion y no esta listo para produccion, aunque siendo un framework tan pequeño probablemente puedas construir tu propia abstraccion para la base de datos y usarlo</h3>
+<h3> Este proyecto esta actualmente en construcción y no esta listo para producción, aunque siendo un framework tan pequeño probablemente puedas construir tu propia abstracción para la base de datos y usarlo.</h3>
 
 
 Kronos is a single entry point microframework for APIs. The files for your application should go inside the app folder.
