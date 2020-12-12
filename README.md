@@ -5,7 +5,7 @@
 </h3>
 
 <h3>
-    Este proyecto va a ser modificado pronto para incluir middlewares parecidos a express, SSE y una implementacion websocket (sea socket.io, raw websocket o ambos) porque las     APIs modernas normalmente necesitan alguna forma de transferecia de datos en tiempo real unidereccional o bidireccional. JWT library 
+    Este proyecto va a ser modificado pronto para incluir middlewares parecidos a express, SSE y una implementacion websocket (sea socket.io, raw websocket o ambos) porque las     APIs modernas normalmente necesitan alguna forma de transferecia de datos en tiempo real unidereccional o bidireccional.
 </h3>
 
 
